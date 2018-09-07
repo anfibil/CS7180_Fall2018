@@ -1,2 +1,2 @@
 # CS7180_Fall2018
-Repo for hosting class activity code 
+Welcome to Fall CS7180. This is the repo where class activity code snippets will be posted.
