@@ -18,8 +18,8 @@ Everaldo Aguiar(e.aguiar@northeastern.edu) is the course instructor; Shravanthi 
 If you come across any questions, feel  free to reach out to them directly on Slack.
 
 ## TA hrs
-Wednesday 4 to 6pm - Shravanthi in 225 near Kitchen area
-Tuesday 5.30 to 7.30pm - Manasi in 225 near Kitchen area
+* Wednesday 4 to 6pm - Shravanthi in 225 near Kitchen area
+* Tuesday 5.30 to 7.30pm - Manasi in 225 near Kitchen area
 
 ## Acknowledgments
 
