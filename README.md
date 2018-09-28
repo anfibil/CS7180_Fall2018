@@ -11,7 +11,7 @@ All communication/announcements related to the course will be done via Slack. As
 ## Instructor and TAs
 
 [![avatar](http://i.imgur.com/As3mExi.png)](https://www.linkedin.com/in/everaldoaguiar)
-[![avatar](https://goo.gl/ciTXrX)](https://www.linkedin.com/in/shravanthi-rajagopal-b0a6bb53/)
+[![avatar](https://i.imgur.com/QBJ4uZz.jpg)](https://www.linkedin.com/in/shravanthi-rajagopal-b0a6bb53/)
 [![avatar](https://imgur.com/GbZTsvM.png)](https://www.linkedin.com/in/manasi-chaudhari/)
 
 Everaldo Aguiar(e.aguiar@northeastern.edu) is the course instructor; Shravanthi Rajagopal(rajagopal.sh@husky.neu.edu) and Manasi Chaudhari(chaudhari.m@husky.neu.edu) are TAs.
