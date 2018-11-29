@@ -42,6 +42,6 @@ def predict(sepal_length, sepal_width, petal_length, petal_width):
 # Read the API definition for our service from the yaml file
 app.add_api("iris_classification_api.yaml")
 
-# Start the appcd ..
+# Start the app
 if __name__ == "__main__":
     app.run()
